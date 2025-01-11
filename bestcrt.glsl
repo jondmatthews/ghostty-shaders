@@ -7,7 +7,7 @@
 //-----------------------------------------------------------------------------
 
 // Chromatic Aberration Settings
-const float ABBERATION_FACTOR = 0.05;    // Strength of color splitting effect
+const float ABBERATION_FACTOR = 0.01;    // Strength of color splitting effect
 
 // Glow/Bloom Settings
 const float DIM_CUTOFF = 0.35;           // Threshold for what's considered a dim pixel
